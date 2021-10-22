@@ -2,7 +2,7 @@
 <h3 align="center"> 👋 Hi! there~ 👋 </h3>
 <p align="center">
 I'm Boyoung here, a junior Back-end developer using Java.🥸<br>
-💻 Things to study : ✏️ https://qh5944.tistory.com/
+💻 Things to study : ✏️ https://qh5944.tistory.com/ <br>
 📫 How to reach me : ✉️ darkbo0@kakao.com <br>
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
